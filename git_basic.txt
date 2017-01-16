@@ -4,4 +4,5 @@ pwd - to know the path of the working directory
 
 Create a file or modify the existing file in the project.
 And navigate to the project folder to add, commit, push the changes in the project to the gitHub.
+
 Anything in red is officially added to the local repository of the project.
